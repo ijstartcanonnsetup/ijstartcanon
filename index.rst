@@ -5,7 +5,7 @@ ij.start.canon | ij Start Canon Setup
 ij.start.canon is a platform for getting the canon printer driver. You can easily download the driver according to your model as ij start canon is designed with a user-friendly interface. canonij printer provides an answer for all type of canon printer problems by which you can undoubtedly figure out how to set up from ij.start.canon and improve insight. However, to avoid any error or trouble in the middle of the process, you must follow the instructions mentioned below.
 
 |
-.. image:: stars.jpg
+.. image:: get-started-today.png
     :width: 300px
     :align: center
     :height: 100px
