@@ -42,11 +42,11 @@ Complete Canon IJ Printer Setup Guide
 * Go to the official website of canon
 * To visit click here - `ij.start.canon <https://ijstart-canonn.readthedocs.io/en/latest/index.html>`_.
 * You will be redirected to homepage of the website.
-* Now, click on the “Set Up” icon.
+* Now, click on the **“Set Up”** icon.
 * Once clicked you will be redirected to the another window
 * Enter the model number of the printer
 * You can either type your model number manually.
 * You can use the click select option that is available in the lower panel on the same page.
-* Click on "Enter" button.
+* Click on **"Enter"** button.
 * The setup instructions for your particular model will pop-up.
 * Hence, Follow the steps prompted on your screen.
