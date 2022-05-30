@@ -31,8 +31,7 @@ Canon drivers can be downloaded and install to set up the Canon ij printer compl
 * Now, open your system web browser and go to ij.start.canon website through a web address. Its offered by Canon support officials to guide the user.
 * Once you jump to the ij start canon page, click on the **“Set Up (Start Here)”** option and enter the canon printer model number or choose from the given list.
 * It will take you to the next page, where you’ll need to ensure the right system like Windows or PC is selected on top of the page.
-* Once you see the Download option at `ij.start.canon <https://ijstart-canonn.readthedocs.io/en/latest/index.html>`_
- for Canon ij printer setup, choose the option to download on your PC and wait for Canon printer drivers to download.
+* Once you see the Download option at `ij.start.canon <https://ijstart-canonn.readthedocs.io/en/latest/index.html>`_ for Canon ij printer setup, choose the option to download on your PC and wait for Canon printer drivers to download.
 * Finally, after downloading from ij.start canon, locate the Canon IJ setup, and double-click on the software file to start ij canon installation. Follow instructions displaying on the system screen to complete the installation.
 * During the canon ij printer setup installation, if you have a USB cable, connect it; otherwise, you can choose the wireless connection option to finish the process.
 
